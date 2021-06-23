@@ -1,0 +1,36 @@
+body {
+  background: rgba(13, 235, 150, 0.781);
+}
+.wrapper {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 250px;
+  height: 270px;
+  background: url(fon.jpg);
+  border-radius: 10px;
+  border: 1px solid #0ae7b7;
+  box-shadow: 3px 3px 7px rgb(7, 117, 71);
+}
+.main {
+  margin: 0 auto;
+  margin-top: 5px;
+  width: 220px;
+}
+.display input {
+  background: rgb(204, 204, 204);
+  margin: 0 auto;
+  overflow: hidden;
+  width: 207px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+.buttons input {
+  background: url(button.jpg);
+  margin: 0 auto;
+  overflow: hidden;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 24px;
+}
